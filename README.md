@@ -1,6 +1,6 @@
 # Java-Rest-Api
 Football Data Rest API
 
-https://ftb-api.up.railway.app/allEvents
+https://footballapi-new-production.up.railway.app/allEvents
 
 Note: Registration is required to execute queries.
